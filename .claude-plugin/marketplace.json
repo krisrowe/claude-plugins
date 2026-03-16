@@ -1,0 +1,17 @@
+{
+  "name": "productivity",
+  "owner": {
+    "name": "krisrowe"
+  },
+  "plugins": [
+    {
+      "name": "bills",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/krisrowe/bills-agent.git",
+        "path": "claude/plugin"
+      },
+      "description": "Bill tracking with Monarch recurring cross-reference, promo deadline monitoring, and balance explanation"
+    }
+  ]
+}
