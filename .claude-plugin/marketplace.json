@@ -12,6 +12,14 @@
         "path": "claude/plugin"
       },
       "description": "Bill tracking with Monarch recurring cross-reference, promo deadline monitoring, and balance explanation"
+    },
+    {
+      "name": "plugin-creator",
+      "source": {
+        "source": "github",
+        "repo": "krisrowe/claude-plugin-creator"
+      },
+      "description": "Scaffold Claude Code plugins with self-installing local MCP servers"
     }
   ]
 }
