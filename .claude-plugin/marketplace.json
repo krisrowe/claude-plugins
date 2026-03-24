@@ -16,16 +16,18 @@
     {
       "name": "gapp",
       "source": {
-        "source": "git",
-        "url": "https://github.com/krisrowe/gapp.git"
+        "source": "git-subdir",
+        "url": "https://github.com/krisrowe/gapp.git",
+        "path": "."
       },
       "description": "Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, and user management"
     },
     {
       "name": "plugin-creator",
       "source": {
-        "source": "github",
-        "repo": "krisrowe/claude-plugin-creator"
+        "source": "git-subdir",
+        "url": "https://github.com/krisrowe/claude-plugin-creator.git",
+        "path": "."
       },
       "description": "Scaffold Claude Code plugins with self-installing local MCP servers"
     }
