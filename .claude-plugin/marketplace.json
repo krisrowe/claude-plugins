@@ -16,8 +16,8 @@
     {
       "name": "gapp",
       "source": {
-        "source": "github",
-        "repo": "krisrowe/gapp"
+        "source": "git",
+        "url": "https://github.com/krisrowe/gapp.git"
       },
       "description": "Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, and user management"
     },
