@@ -13,6 +13,7 @@ claude plugin marketplace add krisrowe/claude-plugins
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | [bills](https://github.com/krisrowe/bills-agent) | Bill tracking with Monarch recurring cross-reference | `claude plugin install bills@productivity` |
+| [gapp](https://github.com/krisrowe/gapp) | Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, and user management | `claude plugin install gapp@productivity` |
 | [plugin-creator](https://github.com/krisrowe/claude-plugin-creator) | Scaffold plugins with self-installing local MCP servers | `claude plugin install plugin-creator@productivity` |
 
 ## Plugin Architecture Docs
