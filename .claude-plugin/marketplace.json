@@ -30,6 +30,15 @@
         "ref": "v1.2.0"
       },
       "description": "Scaffold Claude Code plugins with self-installing local MCP servers"
+    },
+    {
+      "name": "product-branding",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/krisrowe/product-branding.git",
+        "ref": "v1.0.0"
+      },
+      "description": "Name software products and check availability across domains, GitHub orgs, and package registries"
     }
   ]
 }
