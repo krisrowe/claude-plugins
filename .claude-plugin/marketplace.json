@@ -27,7 +27,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/krisrowe/claude-plugin-creator.git",
-        "ref": "v1.2.0"
+        "ref": "v1.3.0"
       },
       "description": "Scaffold Claude Code plugins with self-installing local MCP servers"
     },
