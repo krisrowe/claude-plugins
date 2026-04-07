@@ -32,6 +32,16 @@
       "description": "Scaffold Claude Code plugins with self-installing local MCP servers"
     },
     {
+      "name": "claude-coding",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/echomodel/claude-coding.git",
+        "path": "plugin/dist",
+        "ref": "v0.2.0"
+      },
+      "description": "Coding agent with privacy-gated commits and skill composition."
+    },
+    {
       "name": "product-branding",
       "source": {
         "source": "url",
