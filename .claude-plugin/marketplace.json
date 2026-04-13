@@ -16,10 +16,8 @@
     {
       "name": "gapp",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/echomodel/gapp.git",
-        "path": ".",
-        "ref": "v1.3.1"
+        "source": "url",
+        "url": "https://github.com/echomodel/gapp.git"
       },
       "description": "Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, custom domains, and user management"
     },
