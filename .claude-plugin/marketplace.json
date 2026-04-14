@@ -17,9 +17,10 @@
       "name": "gapp",
       "source": {
         "source": "url",
-        "url": "https://github.com/echomodel/gapp.git"
+        "url": "https://github.com/echomodel/gapp.git",
+        "ref": "v1.4.0"
       },
-      "description": "Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, custom domains, and user management"
+      "description": "Deploy Python MCP servers to Cloud Run with guided lifecycle, CI/CD, custom domains, and secret management"
     },
     {
       "name": "plugin-creator",
